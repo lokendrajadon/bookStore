@@ -1,0 +1,8 @@
+{
+    "env":{
+        "MONGO_USER": "herokuTesting",
+        "MONGO_PASSWORD": "herokuTesting@123",
+        "MONGO_DEFAULT_DATABASE": "test",
+        "STRIPE_KEY": "sk_test_T8OE02SHDZWLwk4TYtrWlsat"
+    }
+}
